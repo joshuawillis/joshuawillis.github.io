@@ -9,7 +9,7 @@ jsproxy_config({
 
   node_map: {
    'mysite': {
-      label: 'Local',
+      label: 'Cadence',
       lines: {
         [location.host]: 1,
       }
